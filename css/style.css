@@ -1,0 +1,57 @@
+@import 'variables'
+ 
+
+.navbarr{
+    background-color: #0E8196;
+}
+.yellow-border{
+    border-color: yellow;
+    border-style: solid;
+    color: yellow;
+}
+.border{
+   
+}
+.i1{
+    background-color: bisque;
+}
+#button1{
+    color: #0E8196;
+    border-color: white;
+    
+}
+#p-1{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+   
+}
+.about{
+    text-align: left;
+    word-wrap: break-word;
+}
+#p-2{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: black;
+}
+.sec3{
+    background-color: aliceblue;
+}
+
+.text-btn{
+    color: aliceblue;
+}
+.lastrow{
+    background-color: black;
+    color: gray;
+}
+.yellow-border{
+    color: $yellow-color;
+}
+/* #text{
+    color: yellow;
+} */
+/* #second-row{
+    color: black;
+} */
+
+
+
